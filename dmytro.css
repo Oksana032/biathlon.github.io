@@ -1,0 +1,22 @@
+body{
+    background: url(5.jpg);  
+  }
+  h1{
+    color: rgb(27, 8, 103); 
+  }
+  .text{
+    width: 850px;
+  }
+  .photo1{
+    display: flex;
+height: 300px;
+width: 250px;
+margin-left: 880px;
+margin-top: -300px;
+ }
+ video{
+    height: 400px;
+width: 850px;}
+b{
+    color: rgb(27, 8, 103);
+}

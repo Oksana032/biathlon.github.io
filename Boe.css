@@ -1,0 +1,17 @@
+h1{
+    color: rgb(188, 13, 13); 
+  }
+  .text{
+    width: 850px;
+  }
+  .photo1{
+    display: flex;
+height: 350px;
+width: 250px;
+margin-left: 880px;
+margin-top: -350px;
+ }
+ body{
+    background: url(5.jpg);  
+  }
+ 
